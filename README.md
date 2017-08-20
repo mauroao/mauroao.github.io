@@ -1,12 +1,9 @@
 ## Analista Desenvolvedor Sênior
 
-Solteiro, brasileiro, 40 anos
-
-Rua Curiá, 540 – São Paulo - SP
-
-Celular: (11) 9-4006-4840
-
-E-mail:  mauro.anselmo.oliveira@gmail.com
+- Solteiro, brasileiro, 40 anos
+- Rua Curiá, 540 – São Paulo - SP
+- Celular: (11) 9-4006-4840
+- E-mail:  (mauro.anselmo.oliveira@gmail.com)[mailto:mauro.anselmo.oliveira@gmail.com]
 
 ## Objetivo
 
@@ -14,21 +11,17 @@ Atuar no desenvolvimento de soluções com a plataforma Microsoft .NET. Aplicar 
 
 ## Resumo profissional
 
-17 anos de experiência na área de desenvolvimento de sistemas.
-
-6 anos de experiência com a plataforma .NET e aplicações Web.
-
-Participação em projetos de sistemas orientados a objetos, sistemas com separação em camadas, integração por WEB Services, Stored Procedures e Triggers em SQL Server e Oracle. Experiência nas tecnologias de criação de aplicativos WEB com HTML, JavaScript, Ajax e JQuery, jQuery-UI, Twitter Bootstrap, Knockout.js, AngularJS, e outros frameworks javascript.
+- 17 anos de experiência na área de desenvolvimento de sistemas.
+- 6 anos de experiência com a plataforma .NET e aplicações Web.
+- Participação em projetos de sistemas orientados a objetos, sistemas com separação em camadas, integração por WEB Services, Stored Procedures e Triggers em SQL Server e Oracle. Experiência nas tecnologias de criação de aplicativos WEB com HTML, JavaScript, Ajax e JQuery, jQuery-UI, Twitter Bootstrap, Knockout.js, AngularJS, e outros frameworks javascript.
 
 ## Experiência Profissional
 
 ### 2015 a 2017 – IBM
 
-Cargo: Analista / Desenvolvedor C#
-
-Alocado no cliente Santander.
-
-Manutenção em aplicações ASP.NET 4.5 e Windows Forms acessando base de dados MS SQL Server e Oracle. Integração entre diversos sistemas através de WebServices, WCF, XML. Big Data: Neo4J, Pivotal GemFire.
+- Cargo: Analista / Desenvolvedor C#
+- Alocado no cliente Santander.
+- Manutenção em aplicações ASP.NET 4.5 e Windows Forms acessando base de dados MS SQL Server e Oracle. Integração entre diversos sistemas através de WebServices, WCF, XML. Big Data: Neo4J, Pivotal GemFire.
 2010 a 2014 – Astrein Engenharia de Materiais
 Cargo: Analista / Desenvolvedor C#
 Manutenção em aplicações ASP.NET 4.0 e Windows Forms acessando base de dados MS SQL Server e Oracle.
