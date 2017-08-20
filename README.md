@@ -1,8 +1,25 @@
-## Welcome to GitHub Pages
+## Analista Desenvolvedor Sênior
 
-You can use the [editor on GitHub](https://github.com/mauroao/mauroao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Solteiro, brasileiro, 40 anos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Rua Curiá, 540 – São Paulo - SP
+
+Celular: (11) 9-4006-4840
+
+E-mail:  mauro.anselmo.oliveira@gmail.com
+
+## Objetivo
+
+Atuar no desenvolvimento de soluções com a plataforma Microsoft .NET. Aplicar novas tecnologias na modernização e atualização de processos.
+
+## Resumo profissional
+
+17 anos de experiência na área de desenvolvimento de sistemas.
+
+6 anos de experiência com a plataforma .NET e aplicações Web.
+
+Participação em projetos de sistemas orientados a objetos, sistemas com separação em camadas, integração por WEB Services, Stored Procedures e Triggers em SQL Server e Oracle. Experiência nas tecnologias de criação de aplicativos WEB com HTML, JavaScript, Ajax e JQuery, jQuery-UI, Twitter Bootstrap, Knockout.js, AngularJS, e outros frameworks javascript.
+Experiência Profissional
 
 ### Markdown
 
