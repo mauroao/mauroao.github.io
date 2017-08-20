@@ -5,7 +5,7 @@
 - Solteiro, brasileiro, 40 anos
 - Rua Curiá, 540 – São Paulo - SP
 - Celular: (11) 9-4006-4840
-- E-mail:  (mauro.anselmo.oliveira@gmail.com)[mailto:mauro.anselmo.oliveira@gmail.com]
+- E-mail: mauro.anselmo.oliveira@gmail.com
 
 ## Objetivo
 
