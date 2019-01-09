@@ -2,7 +2,7 @@
 
 ### Analista Desenvolvedor Sênior
 
-- Solteiro, brasileiro, 40 anos
+- Solteiro, brasileiro, 41 anos
 - Rua Curiá, 540 – São Paulo - SP
 - Celular: (11) 9-4006-4840
 - E-mail: mauro.anselmo.oliveira@gmail.com
@@ -13,7 +13,7 @@ Atuar no desenvolvimento de soluções com a plataforma Microsoft .NET. Aplicar 
 
 ## Resumo profissional
 
-- 17 anos de experiência na área de desenvolvimento de sistemas.
+- 18 anos de experiência na área de desenvolvimento de sistemas.
 - 6 anos de experiência com a plataforma .NET e aplicações Web.
 - Participação em projetos de sistemas orientados a objetos, sistemas com separação em camadas, integração por WEB Services, Stored Procedures e Triggers em SQL Server e Oracle. Experiência nas tecnologias de criação de aplicativos WEB com HTML, JavaScript, Ajax e JQuery, jQuery-UI, Twitter Bootstrap, Knockout.js, AngularJS, e outros frameworks javascript.
 
