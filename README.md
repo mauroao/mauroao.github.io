@@ -1,75 +1,91 @@
 ## Mauro Anselmo de Oliveira
 
-### Analista Desenvolvedor Sênior
+### Senior Software Developer / Analyst
 
-- Solteiro, brasileiro, 41 anos
+- Single, Brazilian, 41 years old
 - Rua Curiá, 540 – São Paulo - SP
-- Celular: (11) 9-4006-4840
+- Phone: (11) 9-4006-4840
 - E-mail: mauro.anselmo.oliveira@gmail.com
 
-## Objetivo
+## Objective
 
-Atuar no desenvolvimento de soluções com a plataforma Microsoft .NET. Aplicar novas tecnologias na modernização e atualização de processos.
+To contribute to the development of high-quality software solutions, applying modern technologies in test automation, process improvement, and system modernization, with a focus on QA engineering, AI-driven automation, and software development across multiple platforms.
 
-## Resumo profissional
+## Professional Summary
 
-- 18 anos de experiência na área de desenvolvimento de sistemas.
-- 6 anos de experiência com a plataforma .NET e aplicações Web.
-- Participação em projetos de sistemas orientados a objetos, sistemas com separação em camadas, integração por WEB Services, Stored Procedures e Triggers em SQL Server e Oracle. Experiência nas tecnologias de criação de aplicativos WEB com HTML, JavaScript, Ajax e JQuery, jQuery-UI, Twitter Bootstrap, Knockout.js, AngularJS, e outros frameworks javascript.
+- Over 25 years of experience in software development and quality assurance.
+- Extensive experience with .NET, Node.js, TypeScript, Java, Python, Angular, and web technologies.
+- Specialization in test automation using Selenium and Playwright for Web and Mobile applications.
+- Experience in building internal tools and automated workflows, including AI-driven skills for end-to-end test automation.
+- Background in object-oriented systems, layered architectures, Web Services integration, Stored Procedures and Triggers on SQL Server and Oracle. Experience with web technologies including HTML, JavaScript, Ajax, jQuery, jQuery-UI, Twitter Bootstrap, Knockout.js, AngularJS, and other JavaScript frameworks.
 
-## Experiência Profissional
+## Professional Experience
 
-### 2015 a 2017 – IBM
+### 2022 to 2026 – AgileTV (formerly Agile Content)
 
-- Cargo: Analista / Desenvolvedor C#
-- Alocado no cliente Santander.
-- Manutenção em aplicações ASP.NET 4.5 e Windows Forms acessando base de dados MS SQL Server e Oracle. Integração entre diversos sistemas através de WebServices, WCF, XML. Big Data: Neo4J, Pivotal GemFire.
+- Role: QA Analyst / Automation Engineer
+- AgileTV is the rebranded version of Agile Content, now focused on the Streaming industry.
+- Returned to the company and continued QA and automation work, evolving the existing test infrastructure.
+- Used AI to build skills and workflows that significantly enhanced end-to-end test automation processes.
+- Expanded the automation framework beyond Selenium by adopting Playwright, improving test coverage and reliability.
+- Developed solutions for bug tracking and root cause analysis, including automated comparison of reported issues against code changes across product repositories.
+- Improved integration between end-to-end tests and the platforms under test, with AI-driven analysis to correlate test results with repository changes.
 
-### 2010 a 2014 – Astrein Engenharia de Materiais
+### 2021 to 2022 – DELL
 
-- Cargo: Analista / Desenvolvedor C#
-- Manutenção em aplicações ASP.NET 4.0 e Windows Forms acessando base de dados MS SQL Server e Oracle.
-- Migração de aplicação Web Forms para ASP.NET MVC com melhorias de usabilidade, layout responsivo e utilização de frameworks javascript como Knockout.js.
-- Integração com sistemas ERP via Web Services e Windows Services. Aplicações em Windows Mobile 6 para coletores de dados.
+- Role: Software Developer
+- Participated in the migration and modernization of a web platform.
+- Worked with Angular and .NET technologies.
+- Managed CI/CD pipelines using GitLab.
 
-### 2009 a 2010 – Panco
+### 2018 to 2021 – Agile Content
 
-- Cargo: Analista / Desenvolvedor ASP.NET C# / Delphi 2006
-- Manutenção de aplicativos de intranet em ASP.NET 2.0.
-- Manutenção em sistemas Delphi. Integração com sistema legado em Informix com SQL Server utilizando Linked-Server.
-    
-### 2008 a 2009 – Medial Saúde
+- Role: QA Analyst / Automation Engineer
+- Worked across multiple platforms including .NET, Node.js, TypeScript, Java, and Python.
+- Developed automated tests using Selenium for Web and Mobile applications.
+- Built internal automation tools to streamline QA processes across different projects.
+- Supported multiple development teams with quality assurance tasks and test coverage initiatives.
 
-- Cargo: Desenvolvedor em Delphi 7 / Oracle
-- Manutenção em sistemas Delphi.
-- Integração com sistema legado em Informix através de triggers e stored-procedures em PL-SQL Oracle.
+### 2015 to 2017 – IBM
 
-### 2003 a 2008 – Marítima Seguros
+- Role: C# Developer / Analyst
+- Assigned to the Santander client.
+- Maintained ASP.NET 4.5 and Windows Forms applications accessing MS SQL Server and Oracle databases. System integration through WebServices, WCF, and XML. Big Data: Neo4J, Pivotal GemFire.
 
-- Cargo: Desenvolvedor em Delphi 7 / ASP.NET C#
-- Manutenção em sistema de cálculo de seguros em Delphi 7.
-- Criação de triggers e stored-procedures em MS-SQL Server 2000 para integração com sistemas legados em Informix e DB2 com DTS e Linked-Server. Desenvolvimento de “Front-End” em ASP.NET para aplicação de cálculo de seguros acessando rotinas em stored-procedure.
-- Sistema de recepção eletrônica de apólices de seguros via FTP, recálculo, validação e integração com sistemas de faturamento.
+### 2010 to 2014 – Astrein Engenharia de Materiais
 
-### 1999 a 2003 – Metrics Sistemas de Informação
+- Role: C# Developer / Analyst
+- Maintained ASP.NET 4.0 and Windows Forms applications accessing MS SQL Server and Oracle databases.
+- Migrated a Web Forms application to ASP.NET MVC with usability improvements, responsive layout, and JavaScript frameworks such as Knockout.js.
+- Integration with ERP systems via Web Services and Windows Services. Windows Mobile 6 applications for data collection devices.
 
-- Cargo: Desenvolvedor em Delphi / ASP.
-- Atuação no suporte técnico nível III.
-- Manutenção de sistemas orientados a objeto em Delphi 5. Criação de triggers e stored-procedures em MS-SQL Server 7. Desenvolvimento de relatórios gerenciais em ASP.
+### 2009 to 2010 – Panco
 
-## Formação complementar (últimos cursos)
+- Role: ASP.NET C# / Delphi 2006 Developer / Analyst
+- Maintained intranet applications in ASP.NET 2.0.
+- Maintained Delphi systems. Integration with a legacy Informix system and SQL Server using Linked-Server.
 
-Microsoft
+### 2008 to 2009 – Medial Saúde
 
-- Curso “Windows Communication Foundation”
-- Curso "Foundations of Microsoft .NET 2.0 Development";
-- Curso "Advanced Foundations of MS .NET 2.0 Development";
-- Curso "Developing Web Applications Using Microsoft Visual Studio 2008";
-- Treinando.net
-- Curso ASP.NET MVC (2012)
+- Role: Delphi 7 / Oracle Developer
+- Maintained Delphi systems.
+- Integration with a legacy Informix system through triggers and stored procedures in PL-SQL Oracle.
 
-## Idiomas/Internacional
+### 2003 to 2008 – Marítima Seguros
 
-Viagem com visto de estudante para os Estados Unidos.
-Certificado de nível intermediário de inglês pela escola Embassy CES, pela participação no curso do idioma no campus da escola em San Diego, Califórnia, com duração de 4 semanas.
+- Role: Delphi 7 / ASP.NET C# Developer
+- Maintained an insurance calculation system in Delphi 7.
+- Created triggers and stored procedures in MS-SQL Server 2000 for integration with legacy Informix and DB2 systems using DTS and Linked-Server. Developed front-end in ASP.NET for the insurance calculation application consuming stored procedure routines.
+- Electronic insurance policy reception system via FTP, including recalculation, validation, and integration with billing systems.
 
+### 1999 to 2003 – Metrics Sistemas de Informação
+
+- Role: Delphi / ASP Developer
+- Level III technical support.
+- Maintained object-oriented systems in Delphi 5. Created triggers and stored procedures in MS-SQL Server 7. Developed management reports in ASP.
+
+## Languages
+
+- **Portuguese** — Native
+- **English** — Advanced (studied at Embassy CES in San Diego, California)
+- **Spanish** — Basic
