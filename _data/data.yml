@@ -122,17 +122,20 @@ skills:
     - name: .NET / C#
       level: 100%
 
-    - name: SQL (SQL Server / Oracle)
+    - name: SQL (MSSQL, Oracle, Postgres)
+      level: 100%
+
+    - name: E2E Test (Selenium, Playwright, Appium)
       level: 100%
 
     - name: TypeScript / Node.js
       level: 90%
 
-    - name: Test Automation (Selenium / Playwright)
-      level: 90%
-
     - name: Python
       level: 85%
+
+    - name: React
+      level: 80%
 
     - name: Angular
       level: 75%
