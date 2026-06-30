@@ -1,0 +1,147 @@
+sidebar:
+  about: False
+  education: False
+
+  name: Mauro Anselmo de Oliveira
+  tagline: Senior Software Developer | QA Automation Engineer
+  avatar: profile.png
+
+  email: mauro.anselmo.oliveira@gmail.com
+  phone: +55 (11) 9-4006-4840
+  linkedin: mauro-oliveira-98654b25
+  github: mauroao
+
+  languages:
+    title: Languages
+    info:
+      - idiom: Portuguese
+        level: Native
+
+      - idiom: English
+        level: Advanced
+
+      - idiom: Spanish
+        level: Basic
+
+career-profile:
+  title: Career Profile
+  summary: |
+    Senior Software Developer and QA Automation Engineer with over 25 years of experience in
+    software development and quality assurance. Proven track record across .NET, Node.js,
+    TypeScript, Java, Python, Angular, and web technologies.
+
+    Specialized in test automation using Selenium and Playwright for Web and Mobile applications,
+    building internal tools and automated workflows — including AI-driven skills for end-to-end
+    test automation. Strong background in object-oriented systems, layered architectures,
+    Web Services integration, and databases (SQL Server and Oracle).
+
+experiences:
+  title: Professional Experience
+  info:
+    - role: QA Analyst / Automation Engineer
+      time: 2022 – 2026
+      company: AgileTV (formerly Agile Content)
+      details: |
+        AgileTV is the rebranded version of Agile Content, now focused on the Streaming industry.
+        Returned to the company and continued QA and automation work, evolving the existing test infrastructure.
+          - Used AI to build skills and workflows that significantly enhanced end-to-end test automation processes.
+          - Expanded the automation framework beyond Selenium by adopting Playwright, improving test coverage and reliability.
+          - Developed solutions for bug tracking and root cause analysis, including automated comparison of reported issues against code changes across product repositories.
+          - Improved integration between end-to-end tests and the platforms under test, with AI-driven analysis to correlate test results with repository changes.
+
+    - role: Software Developer
+      time: 2021 – 2022
+      company: DELL
+      details: |
+        Participated in the migration and modernization of a web platform.
+          - Worked with Angular and .NET technologies.
+          - Managed CI/CD pipelines using GitLab.
+
+    - role: QA Analyst / Automation Engineer
+      time: 2018 – 2021
+      company: Agile Content
+      details: |
+        Worked across multiple platforms including .NET, Node.js, TypeScript, Java, and Python.
+          - Developed automated tests using Selenium for Web and Mobile applications.
+          - Built internal automation tools to streamline QA processes across different projects.
+          - Supported multiple development teams with quality assurance tasks and test coverage initiatives.
+
+    - role: C# Developer / Analyst
+      time: 2015 – 2017
+      company: IBM (assigned to Santander)
+      details: |
+        Maintained ASP.NET 4.5 and Windows Forms applications accessing MS SQL Server and Oracle databases.
+          - System integration through WebServices, WCF, and XML.
+          - Big Data technologies: Neo4J and Pivotal GemFire.
+
+    - role: C# Developer / Analyst
+      time: 2010 – 2014
+      company: Astrein Engenharia de Materiais
+      details: |
+        Maintained ASP.NET 4.0 and Windows Forms applications accessing MS SQL Server and Oracle databases.
+          - Migrated a Web Forms application to ASP.NET MVC with responsive layout and JavaScript frameworks such as Knockout.js.
+          - Integration with ERP systems via Web Services and Windows Services.
+          - Windows Mobile 6 applications for data collection devices.
+
+    - role: ASP.NET C# / Delphi Developer
+      time: 2009 – 2010
+      company: Panco
+      details: |
+        Maintained intranet applications in ASP.NET 2.0 and Delphi systems.
+          - Integration with a legacy Informix system and SQL Server using Linked-Server.
+
+    - role: Delphi 7 / Oracle Developer
+      time: 2008 – 2009
+      company: Medial Saúde
+      details: |
+        Maintained Delphi systems with integration to a legacy Informix system
+        through triggers and stored procedures in PL/SQL Oracle.
+
+    - role: Delphi 7 / ASP.NET C# Developer
+      time: 2003 – 2008
+      company: Marítima Seguros
+      details: |
+        Maintained an insurance calculation system in Delphi 7.
+          - Created triggers and stored procedures in MS SQL Server 2000 for integration with legacy Informix and DB2 systems via DTS and Linked-Server.
+          - Developed ASP.NET front-end for the insurance calculation application.
+          - Built an electronic insurance policy reception system via FTP, including recalculation, validation, and billing integration.
+
+    - role: Delphi / ASP Developer
+      time: 1999 – 2003
+      company: Metrics Sistemas de Informação
+      details: |
+        Level III technical support and systems development.
+          - Maintained object-oriented systems in Delphi 5.
+          - Created triggers and stored procedures in MS SQL Server 7.
+          - Developed management reports in ASP.
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: .NET / C#
+      level: 100%
+
+    - name: SQL (SQL Server / Oracle)
+      level: 100%
+
+    - name: TypeScript / Node.js
+      level: 90%
+
+    - name: Test Automation (Selenium / Playwright)
+      level: 90%
+
+    - name: Python
+      level: 85%
+
+    - name: Angular
+      level: 75%
+
+    - name: Java
+      level: 70%
+
+    - name: Go
+      level: 60%
+
+footer: >
+  Mauro Anselmo de Oliveira &mdash; Senior Software Developer &amp; QA Automation Engineer

@@ -1,1 +1,3 @@
-theme: jekyll-theme-leap-day
+remote_theme: sharu725/online-cv
+plugins:
+  - jekyll-remote-theme
